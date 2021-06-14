@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-align: center;
+    color: #FF1919
+}
+
+img {
+    width: auto;
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;;
+}
+
+body {
+    font-size: 18px;
+    font-family: Helevtica, sans-serif;
+    color: black;
+    background-color: #CFCECE
+}
+
+h2 {
+    font-family: serif;
+    font-size: 22px;
+    color: #FF1922
+}
+
